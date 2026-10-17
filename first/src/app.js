@@ -19,7 +19,7 @@ app.post('/notes', (req, res) =>{
     })
 })
 
-
+ 
 //2..get method ka use karke ham ek api create karenge jaha user server k through data fetch karvayega
 
 app.get('/notes', (req, res)=>{
